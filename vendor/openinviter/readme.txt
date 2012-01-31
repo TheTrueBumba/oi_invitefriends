@@ -1,0 +1,1 @@
+This is the path for openinviter API.
