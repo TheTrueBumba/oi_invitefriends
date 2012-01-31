@@ -1,0 +1,1 @@
+This plugin is a fusion of Curverider´s Invitefriends Plugin and Invite Friends module from Openinviter API. You can, in the same form, invite your friends in the old way, typing one e-mail per line, or invite your friends using Openinviter API.
